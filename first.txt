@@ -3,4 +3,5 @@ Gitの練習をしていきます。
 今回勉強するコマンド
 ・git add
 ・git commit
-・git remove
+・git rm
+・git status
